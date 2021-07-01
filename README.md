@@ -1,9 +1,3 @@
----
-layout: home
-title: my circles
----
-
-
 Marked - Markdown Parser
 ========================
 
