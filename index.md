@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: index
 title: TestBlog
 ---
-# Index1.md
+# Index2.md
