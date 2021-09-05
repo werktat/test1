@@ -3,4 +3,6 @@ remote_theme: werktat/simplyminimal
 collections:
   chapters:
     output: true
+  chapters/adir:
+    output: true
     
